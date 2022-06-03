@@ -1,5 +1,5 @@
-# analise-de-dados-ebac
-Módulo 18e19 - EBAC - Profissão analista de dados
+# Analise de dados EBAC
+Módulo 18 e 19 - EBAC - Profissão analista de dados
 
 # Atividades referetes ao módulo 18 e 19
 
