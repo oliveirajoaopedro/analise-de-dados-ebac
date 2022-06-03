@@ -1,1 +1,0 @@
-# Os programas utilizados foram 
